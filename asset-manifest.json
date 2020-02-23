@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/myreact/static/css/main.7ac0c5df.chunk.css",
-    "main.js": "/myreact/static/js/main.9b954281.chunk.js",
-    "main.js.map": "/myreact/static/js/main.9b954281.chunk.js.map",
-    "runtime~main.js": "/myreact/static/js/runtime~main.39255d55.js",
-    "runtime~main.js.map": "/myreact/static/js/runtime~main.39255d55.js.map",
-    "static/js/2.4783b4b1.chunk.js": "/myreact/static/js/2.4783b4b1.chunk.js",
-    "static/js/2.4783b4b1.chunk.js.map": "/myreact/static/js/2.4783b4b1.chunk.js.map",
-    "index.html": "/myreact/index.html",
-    "precache-manifest.a2861dd6bad5e019c13bd7a0799721b9.js": "/myreact/precache-manifest.a2861dd6bad5e019c13bd7a0799721b9.js",
-    "service-worker.js": "/myreact/service-worker.js",
-    "static/css/main.7ac0c5df.chunk.css.map": "/myreact/static/css/main.7ac0c5df.chunk.css.map",
-    "static/media/img-1.jpeg": "/myreact/static/media/img-1.4caa2a93.jpeg"
-  }
+    "main.css": "/moseskereya/Recipe_Book/static/css/main.f3a12cd0.chunk.css",
+    "main.js": "/moseskereya/Recipe_Book/static/js/main.2529b37e.chunk.js",
+    "main.js.map": "/moseskereya/Recipe_Book/static/js/main.2529b37e.chunk.js.map",
+    "runtime-main.js": "/moseskereya/Recipe_Book/static/js/runtime-main.7874e24d.js",
+    "runtime-main.js.map": "/moseskereya/Recipe_Book/static/js/runtime-main.7874e24d.js.map",
+    "static/js/2.6b0cb038.chunk.js": "/moseskereya/Recipe_Book/static/js/2.6b0cb038.chunk.js",
+    "static/js/2.6b0cb038.chunk.js.map": "/moseskereya/Recipe_Book/static/js/2.6b0cb038.chunk.js.map",
+    "index.html": "/moseskereya/Recipe_Book/index.html",
+    "precache-manifest.602074631f5e105cc8237d481228821d.js": "/moseskereya/Recipe_Book/precache-manifest.602074631f5e105cc8237d481228821d.js",
+    "service-worker.js": "/moseskereya/Recipe_Book/service-worker.js",
+    "static/css/main.f3a12cd0.chunk.css.map": "/moseskereya/Recipe_Book/static/css/main.f3a12cd0.chunk.css.map",
+    "static/js/2.6b0cb038.chunk.js.LICENSE.txt": "/moseskereya/Recipe_Book/static/js/2.6b0cb038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7874e24d.js",
+    "static/js/2.6b0cb038.chunk.js",
+    "static/css/main.f3a12cd0.chunk.css",
+    "static/js/main.2529b37e.chunk.js"
+  ]
 }
